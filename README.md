@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-credit-card-validation
+<br>
+<p class="ui header product-top-header" title="Credit Card Validation Solution">Create an application that uses the steps shown in Figure 10-38 on page 546 of the textbook to verify a credit card number that contains 12 digits. The interface should provide a text box for the user to enter the 12-digit number. The application should display either the “Valid number” message or the “Invalid number” message. Save the solution and then start the application. Click the Exit button and then close the solution
